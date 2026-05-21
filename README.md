@@ -1,4 +1,4 @@
-# SDD MySpace Rushil
+# SDD MySpace RC
 
 This repository contains the Session 1 SpecKit artifacts and initial implementation work for the Leave widget feature in the MySpace portal project.
 
